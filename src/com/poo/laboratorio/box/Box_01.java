@@ -1,4 +1,4 @@
-package com.poo;
+package com.poo.laboratorio.box;
 
 public class Box_01 {
 

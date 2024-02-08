@@ -1,5 +1,5 @@
 package com.poo.test;
-import com.poo.Box_01;
+import com.poo.laboratorio.box.Box_01;
 
 public class TestBox {
     public static void main(String[] args) {
